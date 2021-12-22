@@ -3,4 +3,4 @@ Methods for creating attack vectors using Social Engineering and Caller ID Spoof
 ## WARNING!
 - Educational Purpose Only. Improper use of this technique/tools may lead to imprisonment. 
 - Creator *Ramiro Gonzalez Galvez* is not liable. 
-- Don't be an idiot. 
+- Don't be an idiot! Don't be evil. 
